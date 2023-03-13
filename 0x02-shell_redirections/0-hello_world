@@ -1,2 +1,2 @@
 #!/git/bash
-print “Hello, World”
+Echo “Hello, World”
